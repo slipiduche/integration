@@ -1,0 +1,11 @@
+{
+  "name": "integration",
+  "version": "1.0.0",
+  "description": "a way to integrate digirack frontend with blochain functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "alejandro camacaro",
+  "license": "MIT"
+}
